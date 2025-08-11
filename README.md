@@ -50,25 +50,31 @@ bank-account-simulation/
 
 
 
+
 ## Screenshots
 
-![Main Application Screenshot](screenshots/main-app.png)
-Displays the main application UI.
-
-![Deposit Screenshot](screenshots/deposit.png)
-Shows the deposit feature in action.
-
-![Withdraw Screenshot](screenshots/withdraw.png)
-Shows the withdraw feature in action.
-
-![Balance Inquiry Screenshot](screenshots/balance-inquiry.png)
-Displays the balance inquiry screen.
-
-![Transaction History Screenshot](screenshots/transaction-history.png)
-Shows the transaction history view.
-
-![Exit Screenshot](screenshots/exit.png)
-Shows the exit confirmation screen.
+<table>
+	<tr>
+		<td><img src="screenshots/main-app.png" width="300"/></td>
+		<td><img src="screenshots/deposit.png" width="300"/></td>
+		<td><img src="screenshots/withdraw.png" width="300"/></td>
+	</tr>
+	<tr>
+		<td align="center">Main Application UI</td>
+		<td align="center">Deposit Feature</td>
+		<td align="center">Withdraw Feature</td>
+	</tr>
+	<tr>
+		<td><img src="screenshots/balance-inquiry.png" width="300"/></td>
+		<td><img src="screenshots/transaction-history.png" width="300"/></td>
+		<td><img src="screenshots/exit.png" width="300"/></td>
+	</tr>
+	<tr>
+		<td align="center">Balance Inquiry</td>
+		<td align="center">Transaction History</td>
+		<td align="center">Exit Confirmation</td>
+	</tr>
+</table>
 
 
 ## Author
