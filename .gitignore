@@ -1,8 +1,10 @@
+
 # Java
 *.class
 *.jar
 *.war
 *.ear
+out/
 
 # VS Code
 .vscode/
@@ -11,5 +13,6 @@
 .DS_Store
 Thumbs.db
 
-# Others
-screenshots/*
+
+# Misc
+*.log
