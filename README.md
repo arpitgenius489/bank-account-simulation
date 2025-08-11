@@ -55,21 +55,27 @@ bank-account-simulation/
 ## Screenshots
 
 ![Main Application Screenshot](screenshots/main-app.png)
+<br>
 Displays the main application UI.
 
 ![Deposit Screenshot](screenshots/deposit.png)
+<br>
 Shows the deposit feature in action.
 
 ![Withdraw Screenshot](screenshots/withdraw.png)
+<br>
 Shows the withdraw feature in action.
 
 ![Balance Inquiry Screenshot](screenshots/balance-inquiry.png)
+<br>
 Displays the balance inquiry screen.
 
 ![Transaction History Screenshot](screenshots/transaction-history.png)
+<br>
 Shows the transaction history view.
 
 ![Exit Screenshot](screenshots/exit.png)
+<br>
 Shows the exit confirmation screen.
 
 
